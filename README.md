@@ -1,1 +1,1 @@
-# Interested in Quantum Computing, currently learning Data Science.
+# Quantum Computing, Condensed Matter Physics, Data Science.
