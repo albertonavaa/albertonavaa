@@ -1,2 +1,10 @@
-# Postdoctoral Fellow at the University of Victoria, working on Condensed Matter Physics and Quantum Computing.
-# Interested in Data Science and Quantitative Finance.
+👋 Hi, I'm Alberto!
+
+🔭 **Ph.D. in Physics and Astronomy** specialized in theoretical Condensed Matter Physics, Superconducting Circuits, and Quantum Computing.  
+💻 **Data Scientist** with a knack for translating complex systems into actionable insights.  
+📈 Passionate about **data science**, **quantitative finance**, and **quantum computing**.  
+
+📫 Reach me:  
+🌐 🔗 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/alberto-nava-07a3181ab/)) | 📧 albertonavaaquino@gmail.com 
+
+✨ Let's collaborate!
