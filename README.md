@@ -1,7 +1,6 @@
 👋 Hi, I'm Alberto!
 
-🔭 **Ph.D. in Physics and Astronomy** specialized in theoretical Condensed Matter Physics, Superconducting Circuits, and Quantum Computing.  
-💻 **Data Scientist** with a knack for translating complex systems into actionable insights.  
+👨‍🔬 **Ph.D. in Physics and Astronomy** specialized in theoretical Condensed Matter Physics, Superconducting Circuits, and Quantum Computing.  
 📈 Passionate about **data science**, **quantitative finance**, and **quantum computing**.  
 
 📫 Reach me:  
