@@ -5,6 +5,6 @@
 📈 Passionate about **data science**, **quantitative finance**, and **quantum computing**.  
 
 📫 Reach me:  
-🌐 🔗 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/alberto-nava-07a3181ab/)) | 📧 albertonavaaquino@gmail.com 
+🌐 🔗 [LinkedIn](https://www.linkedin.com/in/alberto-nava-07a3181ab/) | 📧 albertonavaaquino@gmail.com 
 
 ✨ Let's collaborate!
